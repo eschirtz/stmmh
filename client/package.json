@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "@vueuse/core": "^8.7.5",
+    "dayjs": "^1.11.3",
     "feather-icons": "4",
     "firebase": "^9.8.4",
     "vue": "^3.2.25",

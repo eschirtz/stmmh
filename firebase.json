@@ -18,6 +18,10 @@
     ],
     "rewrites": [
       {
+        "source": "/c/*",
+        "function": "checkin" 
+      },
+      {
         "source": "**",
         "destination": "/index.html"
       }
