@@ -8,7 +8,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@vueuse/core": "^8.7.5",
     "feather-icons": "4",
+    "firebase": "^9.8.4",
     "vue": "^3.2.25",
     "vue-feather": "2"
   },
